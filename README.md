@@ -1,53 +1,48 @@
+
 ## <samp>hello, I'm Kasia 👋</samp>
  
- <div align="center">
-<samp>
-<details>
-  <summary>My Story 💬</summary> 
-  <pre>I'm a freshly trained software engineer with industrial design background <br>What it really means, I love learning technologies and tools in order to build or improve things</pre>
-  <h2>👩🏻‍🔬</h2>
+ <div align="left">
 
-<pre style="overflow:auto">As an industrial designer I worked in cross functional teams in the end-to-end development process <br>I was creating objects that people use in everyday life <br>and used various tools/machines to build prototypes and test them with the user (so called ux)</pre>
+<details>
+ <summary><samp>My Story 💬</samp></summary> 
+<!--   <pre align="left"> -->
+ <p align="left">
+  I'm a freshly trained software engineer with an industrial design background. <br>I love learning technologies and tools in order to build or improve things.
+
+As an industrial designer I worked in the end-to-end development process, created objects that people use in everyday life, <br>and utilized various tools / machines to build prototypes for user testing.</pre>
   
-```javascript
-  As a software engineer my main tools are JavaScript, React, Redux, Node.js, PosgtreSQL, HTML, CSS
-  I’m especially enjoying building user-facing apps which are interactive, intuitive, responsive and accessible
-```
+
+  As a software engineer my main tools are JavaScript, React, Redux, Node.js, PosgtreSQL, HTML, and CSS.
+  I’m especially enjoying building user-facing apps which are interactive, intuitive, responsive and accessible.
+
+     </p>
 </details>
   
 <details>
   <summary>Current status 👾</summary> 
-  <pre>
-  👩🏻‍💻 regret that didn't start to code sooner, so trying to learn as much as possible 👩🏻‍💻
+  <pre align="left">
+<!--   👩🏻‍💻 regreting that didn't start to code sooner, so trying to learn as much as possible 👩🏻‍💻 -->
   🌳 working on portfolio and traversing the trees with other DS 🌳
-  🦻 interested in accessibility 🦻</pre>
-  
-   ```javascript 
-   📕 reading “Accessibility for everyone” by Laura Kalbag
-  ```
-  
-<!--   <ol>🍀 I’m currently working on portfolio and traversing the trees and other DS 🍀</ol>
-  - I’m interested in accessibility and I'm reading
-  - “Accessibility for everyone” by Laura Kalbag -->
-
+  🦻 interested in accessibility 🦻
+  📕 reading “Accessibility for everyone” by Laura Kalbag</pre>
 </details>
   
  <details>
   <summary><samp>Wanna chat? ☕️ </sammp></summary> 
-<!--    <ul> -->
+
   <a href="https://www.linkedin.com/in/kasia-gierat/">👉 Linkedin</a><br>
    <a href="https://twitter.com/KasiaGierat">👉 Twitter</a><br>
       email: kasia.gierat@gmail.com
-<!--    </ul> -->
+
 </details>
 
 
   
   <div>
-    
+  
+
 
 <!--
-v1
 # :biking_woman:	
 <samp>Hi, I'm Kasia 👋 I'm a freshly trained software engineer with industrial design background. What it really means, I love learning technologies and tools in order to build or improve things.</samp>
 
@@ -73,7 +68,7 @@ v1
 [LinkedIn](https://www.linkedin.com/in/kasia-gierat/)
 
    
-
+<!--
 notes
 **KasiaKinga/KasiaKinga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
