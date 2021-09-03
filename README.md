@@ -5,7 +5,7 @@
  
  <br>As an industrial designer I worked in the end-to-end development process, <br>created objects that people use in everyday life, and utilized various tools / machines<br> to build prototypes for user testing.
 
-  As a software engineer I’m especially enjoying building user-facing apps which are<br> **interactive**, **intuitive**, **responsive**, **accessible**<br>
+  As a software engineer I’m especially enjoying building user-facing apps which are<br> **interactive**, **intuitive**, **responsive**, and **accessible**.<br>
 
  <br>
 
