@@ -42,7 +42,7 @@
 <dl>
     
  <dl>
- <dt>Some of my industrial design works</dt>
+ <dt>*️⃣ Some of my industrial design works</dt>
     <dd><a href="https://www.behance.net/katarzynagierat"><samp>Behance<samp></a></dd>
      
  <dl>
