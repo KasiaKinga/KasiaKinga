@@ -12,6 +12,11 @@
  <a href="https://github.com/KasiaKinga/math-for-pola">
   <img src="https://github.com/KasiaKinga/math-for-pola/blob/main/P+2.gif" width="350px" >
  </a>
+ 
+ <a href="https://github.com/KasiaKinga/chat">
+  <img src="https://github.com/KasiaKinga/chat/blob/main/company_readme.gif" width="350px" >
+ </a>
+ 
 </div>
 
  <br>
