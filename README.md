@@ -44,7 +44,9 @@
   <summary><samp>current status 👾</samp></summary> 
   <pre align="left">
   🌳 traversing the trees and other DS
-  📕 reading “Accessibility for everyone” by Laura Kalbag</pre>
+  📕 reading “Accessibility for everyone” by Laura Kalbag
+  🥠 learning chinese
+  🧘🏻‍♀️ practice yoga</pre>
  </details>
   
  <details>
