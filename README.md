@@ -27,7 +27,7 @@
 
   <dl>
    <dt>Web apps</dt>
-   <dd><a href="https://github.com/KasiaKinga/countries-api"><samp><b><em>Countries</em></b> responsive web application to find details about countries<samp></a></dd>
+   <dd><a href="https://github.com/KasiaKinga/countries-api"><samp><b><em>Countries</em></b> </a>responsive web application to find details about countries<samp></dd>
    <dd><a href="https://github.com/KasiaKinga/math-for-pola"><samp><b><em>P+</em></b> responsive game for kids aged 6 years old to practice maths operations<samp></a></dd>
     <dd><a href="https://github.com/KasiaKinga/math-for-pola"><samp><b><em>Quizz</em></b> responsive app with quizz<samp></a></dd>
     
