@@ -30,7 +30,7 @@
     <li><a href="https://github.com/async-awaitress"><samp><b><em>GRace</em></b> mobile app which encourages users to participate in sustainable challenges<samp></a></li>
    <li><a href="https://github.com/KasiaKinga/math-for-pola"><samp><b><em>P+</em></b> responsive game for kids aged 6 years old to practice maths operations<samp></a></li>
     <li><a href="https://github.com/KasiaKinga/chat"><samp><b><em>Company</em></b> realtime mobile app to interact and chat in a virtual study room<samp></a></li>
-     <li><a href="https://github.com/KasiaKinga/Infinite-Scroll-Challenge01"><samp><b><em>Company</em></b> responsive application which displays Pins and allows infinite scrolling<samp></a></li>
+     <li><a href="https://github.com/KasiaKinga/Infinite-Scroll-Challenge01"><samp><b><em>Infinite Scrolling</em></b> responsive application which displays Pins and allows infinite scrolling<samp></a></li>
 
  </details>
  
