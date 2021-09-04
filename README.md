@@ -27,17 +27,17 @@
 
   <dl>
    <dt>Web apps</dt>
-   <dd><a href="https://github.com/KasiaKinga/countries-api"><samp><b><em>Countries</em></b> </a>responsive web application to find details about countries<samp></dd>
-   <dd><a href="https://github.com/KasiaKinga/math-for-pola"><samp><b><em>P+</em></b> responsive game for kids aged 6 years old to practice maths operations<samp></a></dd>
-    <dd><a href="https://github.com/KasiaKinga/math-for-pola"><samp><b><em>Quizz</em></b> responsive app with quizz<samp></a></dd>
+   <dd><a href="https://github.com/KasiaKinga/math-for-pola"><samp><b><em>P+</em></b><samp></a> - responsive game for kids aged 6 years old to practice maths operations</dd>
+   <dd><a href="https://github.com/KasiaKinga/countries-api"><samp><b><em>Countries</em></b><samp></a> - responsive web application to find details about countries</dd>
+    <dd><a href="https://github.com/KasiaKinga/math-for-pola"><samp><b><em>Quizz</em></b><samp></a> - responsive app with quizz</dd>
     
    <dt>Mobile apps</dt>
-    <dd><a href="https://github.com/async-awaitress"><samp><b><em>GRace</em></b> mobile app which encourages users to participate in sustainable challenges<samp></a></dd>
-    <dd><a href="https://github.com/KasiaKinga/chat"><samp><b><em>Company</em></b> realtime mobile app to interact and chat in a virtual study room<samp></a></dd>
+    <dd><a href="https://github.com/async-awaitress"><samp><b><em>GRace</em></b><samp></a> - mobile app which encourages users to participate in sustainable challenges</dd>
+    <dd><a href="https://github.com/KasiaKinga/chat"><samp><b><em>Company</em></b><samp></a> - realtime mobile app to interact and chat in a virtual study room</dd>
      
    <dt>Projects to explore single functionality</dt>
-    <dd><a href="https://github.com/KasiaKinga/Infinite-Scroll-Challenge01"><samp><b><em>Infinite Scrolling</em></b> responsive application which displays Pins and allows infinite scrolling<samp></a></dd>
-    <dd><a href="https://github.com/KasiaKinga/Infinite-Scroll-Challenge01"><samp><b><em>Timer</em></b> app to set multiple timers<samp></a></dd>
+    <dd><a href="https://github.com/KasiaKinga/Infinite-Scroll-Challenge01"><samp><b><em>Infinite Scrolling</em></b><samp></a> - responsive application which displays Pins and allows infinite scrolling</dd>
+    <dd><a href="https://github.com/KasiaKinga/Infinite-Scroll-Challenge01"><samp><b><em>Timer</em></b><samp></a> - app to set multiple timers</dd>
     <dd><a href="https://github.com/KasiaKinga/Infinite-Scroll-Challenge01"><samp><b><em>Mortgage calculator</em></b><samp></a></dd>
 <dl>
     
