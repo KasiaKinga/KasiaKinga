@@ -23,7 +23,7 @@
  <hr>
 
  <details>
-   <summary><samp>projects 🎨</sammp></summary>
+   <summary><samp>projects ✏️</sammp></summary>
 
   <dl>
    <dt>Web apps</dt>
