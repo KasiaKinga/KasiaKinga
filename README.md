@@ -37,8 +37,8 @@
      
    <dt>Projects to explore single functionality</dt>
     <dd><a href="https://github.com/KasiaKinga/Infinite-Scroll-Challenge01"><samp><b><em>Infinite Scrolling</em></b><samp></a> - responsive application which displays Pins and allows infinite scrolling</dd>
-    <dd><a href="https://github.com/KasiaKinga/Infinite-Scroll-Challenge01"><samp><b><em>Timer</em></b><samp></a> - app to set multiple timers</dd>
-    <dd><a href="https://github.com/KasiaKinga/Infinite-Scroll-Challenge01"><samp><b><em>Mortgage calculator</em></b><samp></a></dd>
+    <dd><a href="https://github.com/KasiaKinga/timer"><samp><b><em>Timer</em></b><samp></a> - app to set multiple timers</dd>
+<!--     <dd><a href="https://github.com/KasiaKinga/Infinite-Scroll-Challenge01"><samp><b><em>Mortgage calculator</em></b><samp></a></dd> -->
 <dl>
     
  <dl>
