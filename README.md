@@ -29,7 +29,7 @@
    <dt>Web apps</dt>
    <dd><a href="https://github.com/KasiaKinga/math-for-pola"><samp><b><em>P+</em></b><samp></a> - responsive game for kids aged 6 years old to practice maths operations</dd>
    <dd><a href="https://github.com/KasiaKinga/countries-api"><samp><b><em>Countries</em></b><samp></a> - responsive web application to find details about countries</dd>
-    <dd><a href="https://github.com/KasiaKinga/math-for-pola"><samp><b><em>Quizz</em></b><samp></a> - responsive app with quizz</dd>
+<!--     <dd><a href="https://github.com/KasiaKinga/math-for-pola"><samp><b><em>Quizz</em></b><samp></a> - responsive app with quizz</dd> -->
     
    <dt>Mobile apps</dt>
     <dd><a href="https://github.com/async-awaitress"><samp><b><em>GRace</em></b><samp></a> - mobile app which encourages users to participate in sustainable challenges</dd>
@@ -61,7 +61,7 @@
   🌳 traversing the trees and other DS
   📕 reading “Accessibility for everyone” by Laura Kalbag
   🥠 learning chinese
-  🧘🏻‍♀️ practice yoga</pre>
+  🚵🏻‍♀️ biking</pre>
  </details>
   
  <details>
