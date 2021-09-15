@@ -60,7 +60,7 @@
   <pre align="left">
   🌳 traversing the trees and other DS
   📕 reading “Accessibility for everyone” by Laura Kalbag
-  🥠 learning chinese
+  🥠 learning mandarin
   🚵🏻‍♀️ biking</pre>
  </details>
   
